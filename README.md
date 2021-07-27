@@ -1,2 +1,2 @@
-# Finance-Projects
-This repository contains finance projects that I created while learning to use Python.
+# Forecasting Stock Price
+This project involves using Monte Carlo simulation to predict the future stock price of Tata Motors in the Bear, Base and Bull scenarios.
